@@ -1,4 +1,4 @@
-# 
+# Stripe Terminal lets you accept in-person payments with ease: Fast, secure, and integrated with your online store.
 
 
 
